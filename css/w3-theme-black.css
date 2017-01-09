@@ -45,6 +45,6 @@ a:link {
 a:hover {
     text-decoration: underline;
 	color: #bb1f02;}
-.main-container:visited {
+a:visited {
     color: #bb1f02;
 }
