@@ -13,3 +13,5 @@
 .w3-hover-theme:hover {color:#000; background-color:#ffc107}
 .w3-hover-text-theme:hover {color:#000000}
 .w3-hover-border-theme:hover {border-color:#000000}
+
+.w3-visited-text-theme:visited {color:#fff; background-color:#000000}
