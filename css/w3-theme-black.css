@@ -5,7 +5,7 @@
 .w3-theme-l1 {color:#fff; background-color:#333333}
 
 .w3-theme-light {color:#000; background-color:#f0f0f0}
-.w3-theme-dark li a:visited {color:#fff; background-color:#000000}
+.w3-theme-dark a:visited {color:#fff; background-color:#000000}
 
 .w3-text-theme {color:#000000}
 .w3-border-theme {border-color:#000000}
