@@ -16,35 +16,3 @@
 .w3-hover-border-theme:hover {border-color:#000000}
 
 
-.main-container {
-  max-width: 940px;
-  margin-left: auto;
-  margin-right: auto;
-}
-code {
-  color: inherit;
-  background-color: rgba(0, 0, 0, 0.04);
-}
-img {
-  max-width:100%;
-  height: auto;
-}
-.tabbed-pane {
-  padding-top: 12px;
-}
-button.code-folding-btn:focus {
-  outline: none;
-}
-
-a:link {
-    color: #E55232;
-}
-a:link {
-    text-decoration: none;
-}
-a:hover {
-    text-decoration: underline;
-	color: #bb1f02;}
-a:visited {
-    color: #bb1f02;
-}
